@@ -1,0 +1,13 @@
+    Crome, former name of Chrome, California, community in Glenn County
+    August Friedrich Wilhelm Crome (1753–1833), German economist
+    Carl Crome, Law Professor in Berlin
+    Georg Ernst Wilhelm Crome (1781–1813), German agricultural scientist
+    John Crome (1768–1821), English painter and founder of the Norwich School of painters
+    John Berney Crome (1768–1821), English painter
+    Louise Crome, New Zealand squash player
+    Ludwig Gottlieb Crome (1742–1794), German philologist and teacher
+    Peter Crome (1938–2003), German journalist and author
+    Crome – a pond raking tool that resembles a long handled fork with 4 tines bent at 90° (also referred to as a 'Drag')
+Description
+
+Use the chrome.contentSettings API to change settings that control whether websites can use features such as cookies, JavaScript, and plugins. More generally speaking, content settings allow you to customize Chrome's behavior on a per-site basis instead of globally.
